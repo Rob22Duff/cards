@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #f2f2f2;
   font-family: Georgia, serif;
-  line-height: 1.5l;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -46,7 +46,7 @@ font-size: 1.125rem;
 .cards dt {
   display: inline-block;
   width: 6em;
-  font-style: 9em;
+  font-style: italic;
 }
 
 .cards dd{
